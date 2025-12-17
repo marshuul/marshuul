@@ -39,7 +39,7 @@ A well-organized, scalable JSON dataset providing integration points for a wide 
 ---
 
 ## 📈 Beyond the Code
-* **SEO Mastery:** I don't just build websites; I make sure they are found. I implement technical SEO best practices into every build.
+* **SEO-Optimized Development:** I don't just build websites; I make sure they are found. I implement technical SEO best practices into every build.
 * **Design-to-Code:** I specialize in taking complex designs and turning them into pixel-perfect, responsive reality.
 
 ---
