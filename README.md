@@ -47,6 +47,6 @@ A well-organized, scalable JSON dataset providing integration points for a wide 
 ## 📫 Connect with Me
 * **Portfolio:** [nabilbenmouina.com](https://www.nabilbenmouina.com)
 * **LinkedIn:** [Nabil Ben Mouina](https://www.linkedin.com/in/nabil-ben-mouina-808364359/)
-* **Email:** [YourEmail@Example.com]
+* **Email:** [urmarshull@gmail.com]
 
 > "I believe in building products that don't just work, but feel magical to use."
